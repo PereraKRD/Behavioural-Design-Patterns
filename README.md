@@ -37,4 +37,4 @@ This repository is dedicated to the exploration and implementation of Behavioral
 To get started with these design patterns, clone this repository using:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/PereraKRD/Behavioural-Design-Patterns.git
